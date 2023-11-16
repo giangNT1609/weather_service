@@ -23,8 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Simple service for getting Weather information of all cities and provinces in Vietnam. Because of the limitations free account of OpenWeather, we use API keys from 2 accounts for collecting data. The service will update data once when starts and is scheduled automatic update at 00h30 (Vietnamese time) every day.
 
 ## Installation
 
