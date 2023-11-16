@@ -1,0 +1,380 @@
+[
+  {
+    "code": "VN-44",
+    "city": "An Giang",
+    "latitude": "10.702239",
+    "longitude": "105.108726"
+  },
+  {
+    "code": "VN-43",
+    "city": "Bà Rịa - Vũng Tàu",
+    "latitude": "10.34583",
+    "longitude": "107.08472"
+  },
+  {
+    "code": "VN-55",
+    "city": "Bạc Liêu",
+    "latitude": "9.25889",
+    "longitude": "105.75194"
+  },
+  {
+    "code": "VN-54",
+    "city": "Bắc Giang",
+    "latitude": "21.29139",
+    "longitude": "106.18694"
+  },
+  {
+    "code": "VN-53",
+    "city": "Bắc Kạn",
+    "latitude": "22.303292",
+    "longitude": "105.876004"
+  },
+  {
+    "code": "VN-56",
+    "city": "Bắc Ninh",
+    "latitude": "21.18528",
+    "longitude": "106.05639"
+  },
+  {
+    "code": "VN-50",
+    "city": "Bến Tre",
+    "latitude": "10.108155",
+    "longitude": "106.440587"
+  },
+  {
+    "code": "VN-57",
+    "city": "Bình Dương",
+    "latitude": "10.992984",
+    "longitude": "106.655707"
+  },
+  {
+    "code": "VN-31",
+    "city": "Bình Định",
+    "latitude": "13.75966",
+    "longitude": "109.206123"
+  },
+  {
+    "code": "VN-58",
+    "city": "Bình Phước",
+    "latitude": "11.601462",
+    "longitude": "106.65271"
+  },
+  {
+    "code": "VN-40",
+    "city": "Bình Thuận",
+    "latitude": "10.98046",
+    "longitude": "108.261477"
+  },
+  {
+    "code": "VN-59",
+    "city": "Cà Mau",
+    "latitude": "9.152673",
+    "longitude": "105.19608"
+  },
+  {
+    "code": "VN-04",
+    "city": "Cao Bằng",
+    "latitude": "22.66694",
+    "longitude": "106.26028"
+  },
+  {
+    "code": "VN-CT",
+    "city": "Cần Thơ",
+    "latitude": "10.03278",
+    "longitude": "105.78389"
+  },
+  {
+    "code": "VN-DN",
+    "city": "Đà Nẵng",
+    "latitude": "16.05194",
+    "longitude": "108.21528"
+  },
+  {
+    "code": "VN-33",
+    "city": "Đắk Lắk",
+    "latitude": "12.710012",
+    "longitude": "108.237752"
+  },
+  {
+    "code": "VN-72",
+    "city": "Đắk Nông",
+    "latitude": "12.264648",
+    "longitude": "107.609806"
+  },
+  {
+    "code": "VN-71",
+    "city": "Điện Biên",
+    "latitude": "21.40639",
+    "longitude": "103.032155"
+  },
+  {
+    "code": "VN-39",
+    "city": "Đồng Nai",
+    "latitude": "10.964112",
+    "longitude": "106.856461"
+  },
+  {
+    "code": "VN-45",
+    "city": "Đồng Tháp",
+    "latitude": "10.4937989",
+    "longitude": "105.6881788"
+  },
+  {
+    "code": "VN-30",
+    "city": "Gia Lai",
+    "latitude": "13.971836",
+    "longitude": "108.01508"
+  },
+  {
+    "code": "VN-03",
+    "city": "Hà Giang",
+    "latitude": "22.802559",
+    "longitude": "104.978449"
+  },
+  {
+    "code": "VN-63",
+    "city": "Hà Nam",
+    "latitude": "20.531693",
+    "longitude": "105.917629"
+  },
+  {
+    "code": "VN-HN",
+    "city": "Hà Nội",
+    "latitude": "21.0277644",
+    "longitude": "105.8341598"
+  },
+  {
+    "code": "VN-23",
+    "city": "Hà Tĩnh",
+    "latitude": "18.34083",
+    "longitude": "105.9075"
+  },
+  {
+    "code": "VN-61",
+    "city": "Hải Dương",
+    "latitude": "20.93972",
+    "longitude": "106.3125"
+  },
+  {
+    "code": "VN-HP",
+    "city": "Hải Phòng",
+    "latitude": "20.86194",
+    "longitude": "106.68028"
+  },
+  {
+    "code": "VN-73",
+    "city": "Hậu Giang",
+    "latitude": "9.757898",
+    "longitude": "105.641253"
+  },
+  {
+    "code": "VN-14",
+    "city": "Hòa Bình",
+    "latitude": "20.81717",
+    "longitude": "105.33759"
+  },
+  {
+    "code": "VN-66",
+    "city": "Hưng Yên",
+    "latitude": "20.63667",
+    "longitude": "106.05694"
+  },
+  {
+    "code": "VN-34",
+    "city": "Khánh Hòa",
+    "latitude": "12.2585098",
+    "longitude": "109.0526076"
+  },
+  {
+    "code": "VN-47",
+    "city": "Kiên Giang",
+    "latitude": "9.8249587",
+    "longitude": "105.1258955"
+  },
+  {
+    "code": "VN-28",
+    "city": "Kon Tum",
+    "latitude": "14.34974",
+    "longitude": "108.000461"
+  },
+  {
+    "code": "VN-01",
+    "city": "Lai Châu",
+    "latitude": "22.386223",
+    "longitude": "103.470263"
+  },
+  {
+    "code": "VN-09",
+    "city": "Lạng Sơn",
+    "latitude": "21.85417",
+    "longitude": "106.76167"
+  },
+  {
+    "code": "VN-02",
+    "city": "Lào Cai",
+    "latitude": "22.44028",
+    "longitude": "104.00278"
+  },
+  {
+    "code": "VN-35",
+    "city": "Lâm Đồng",
+    "latitude": "11.5752791",
+    "longitude": "108.1428669"
+  },
+  {
+    "code": "VN-41",
+    "city": "Long An",
+    "latitude": "10.695572",
+    "longitude": "106.2431205"
+  },
+  {
+    "code": "VN-67",
+    "city": "Nam Định",
+    "latitude": "20.438823",
+    "longitude": "106.162105"
+  },
+  {
+    "code": "VN-22",
+    "city": "Nghệ An",
+    "latitude": "19.2342489",
+    "longitude": "104.9200365"
+  },
+  {
+    "code": "VN-18",
+    "city": "Ninh Bình",
+    "latitude": "20.250615",
+    "longitude": "105.974454"
+  },
+  {
+    "code": "VN-36",
+    "city": "Ninh Thuận",
+    "latitude": "11.6738767",
+    "longitude": "108.8629572"
+  },
+  {
+    "code": "VN-68",
+    "city": "Phú Thọ",
+    "latitude": "21.268443",
+    "longitude": "105.2045573"
+  },
+  {
+    "code": "VN-32",
+    "city": "Phú Yên",
+    "latitude": "13.0881861",
+    "longitude": "109.0928764"
+  },
+  {
+    "code": "VN-24",
+    "city": "Quảng Bình",
+    "latitude": "17.465939",
+    "longitude": "106.598396"
+  },
+  {
+    "code": "VN-27",
+    "city": "Quảng Nam",
+    "latitude": "15.880058",
+    "longitude": "108.338047"
+  },
+  {
+    "code": "VN-29",
+    "city": "Quảng Ngãi",
+    "latitude": "15.12389",
+    "longitude": "108.81167"
+  },
+  {
+    "code": "VN-13",
+    "city": "Quảng Ninh",
+    "latitude": "20.910051",
+    "longitude": "107.183902"
+  },
+  {
+    "code": "VN-25",
+    "city": "Quảng Trị",
+    "latitude": "16.74694",
+    "longitude": "107.19389"
+  },
+  {
+    "code": "VN-52",
+    "city": "Sóc Trăng",
+    "latitude": "9.60389",
+    "longitude": "105.97417"
+  },
+  {
+    "code": "VN-05",
+    "city": "Sơn La",
+    "latitude": "21.102228",
+    "longitude": "103.728917"
+  },
+  {
+    "code": "VN-37",
+    "city": "Tây Ninh",
+    "latitude": "11.36778",
+    "longitude": "106.11917"
+  },
+  {
+    "code": "VN-20",
+    "city": "Thái Bình",
+    "latitude": "20.4475",
+    "longitude": "106.3375"
+  },
+  {
+    "code": "VN-69",
+    "city": "Thái Nguyên",
+    "latitude": "21.5675",
+    "longitude": "105.82556"
+  },
+  {
+    "code": "VN-21",
+    "city": "Thanh Hóa",
+    "latitude": "19.8075",
+    "longitude": "105.77639"
+  },
+  {
+    "code": "VN-SG",
+    "city": "Ho Chi Minh City",
+    "latitude": "10.83333",
+    "longitude": "106.63278"
+  },
+  {
+    "code": "VN-26",
+    "city": "Thừa Thiên Huế",
+    "latitude": "16.46278",
+    "longitude": "107.58472"
+  },
+  {
+    "code": "VN-46",
+    "city": "Tiền Giang",
+    "latitude": "10.4493324",
+    "longitude": "106.3420504"
+  },
+  {
+    "code": "VN-51",
+    "city": "Trà Vinh",
+    "latitude": "9.951332",
+    "longitude": "106.334606"
+  },
+  {
+    "code": "VN-07",
+    "city": "Tuyên Quang",
+    "latitude": "21.81861",
+    "longitude": "105.21167"
+  },
+  {
+    "code": "VN-49",
+    "city": "Vĩnh Long",
+    "latitude": "10.244844",
+    "longitude": "105.958865"
+  },
+  {
+    "code": "VN-70",
+    "city": "Vĩnh Phúc",
+    "latitude": "21.360881",
+    "longitude": "105.547437"
+  },
+  {
+    "code": "VN-06",
+    "city": "Yên Bái",
+    "latitude": "21.71667",
+    "longitude": "104.89861"
+  }
+]
